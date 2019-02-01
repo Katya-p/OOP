@@ -1,0 +1,9 @@
+A roza Upala na lapu Azora
+a - y
+azor - n
+alapu - n
+an - n
+upal - n
+aroza - n
+arozaupalanalapuazora - y
+azora lapu na upala roza a - n
